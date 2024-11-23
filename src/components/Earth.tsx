@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react';
+import { useRef } from 'react';
 import { useFrame } from '@react-three/fiber';
 import { PerspectiveCamera, useGLTF, OrbitControls } from '@react-three/drei';
 import * as THREE from 'three';
